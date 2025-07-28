@@ -19,7 +19,7 @@
     "@nomiclabs/hardhat-etherscan": "^3.1.0",
     "@openzeppelin/hardhat-upgrades": "^1.29.0",
     "solidity-coverage": "^0.8.3",
-    "dotenv": "^16.0.0",
+    "dotenv": "^17.2.1",
     "chai": "^4.3.6"
   }
 }
