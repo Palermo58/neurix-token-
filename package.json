@@ -10,7 +10,7 @@
     "verify": "hardhat verify --network mainnet"
   },
   "dependencies": {
-    "@openzeppelin/contracts-upgradeable": "^4.9.0",
+    "@openzeppelin/contracts-upgradeable": "^5.4.0",
     "@openzeppelin/contracts": "^4.9.0"
   },
   "devDependencies": {
